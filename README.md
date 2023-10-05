@@ -37,7 +37,7 @@ The requirements to meet the client's needs are listed below:
 
 - Comments were added above each code section, labelling the specific function of the HTML code for clarity of the codes output.
 
-- I ensured heading attributes through the page fell in sequential order and established there was only one H1 element for the page, which was the companys business name. I also altered the H2 element within the footing to a more suitable H4 element.
+- I ensured heading attributes through the page fell in sequential order and established there was only one H1 element for the page, which was the companys business name. I also altered the H2 element within the footer to a more suitable H4 element.
 
 - I added descriptive accessible alt attributes to all image and icon elements.
 
@@ -59,11 +59,9 @@ p {
     font-size: 16px;
 }
 ```
-
-
-
 ## User Story
-As someone who struggles to read content from a computer screen I need to the site to be accessable, so that i am able to know what content is presented on the page and easily interact with it.
+As a marketing agency, I want the codebase for our website to follow accessibility standards
+so that our own site is not only optimised to rank higher in search engines but to also make sure people with disabilities can effectively comprehend and interact with the information presented on our site.
 ## Acceptance Criteria
 Website must meet accessibility standards this will be achieved by completing the following:
 
